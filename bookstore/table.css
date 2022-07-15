@@ -1,0 +1,66 @@
+h1{margin-top: 20px;
+    height: 80px;
+    background-color: teal;
+    font-weight: 900;
+    color: white;
+    width: max-content;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 400px;
+    padding-right: 400px;
+    padding-top: 10px;
+    border-radius: 50px;
+
+} 
+a{
+    text-decoration: none;
+    font-weight: 800;
+}
+#ue{
+    text-decoration: none;
+}
+#ud{
+    text-decoration: none;
+    color: red;
+}
+
+#bk{
+    color: rgb(9, 30, 218);
+    font-size: 22px;
+    font-weight: 800;
+    text-decoration: none;
+    margin-left: 80%;
+    
+    
+}
+table{
+    margin-left: 250px;
+    width: 70%;
+   
+   
+}
+th{
+    font-size: 25px ;
+    color: rgb(0, 0, 0);
+    border: 1px black ;
+    
+    
+    
+}
+
+
+#books tr:nth-child(even){background-color: #f2f2f2;}
+#books tr:hover {background-color: #ddd;}
+
+th, tr {
+    
+    font-style: italic;
+    
+}
+
+tr{
+    font-size: 22px;
+    padding-left: 60PX;
+    
+    
+}
